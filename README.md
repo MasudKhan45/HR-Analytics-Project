@@ -18,3 +18,8 @@ This project analyzes Human Resources data to uncover insights related to employ
 - Jupyter Notebook
 
 ## 📂 Project Structure
+HR-Analytics-Project/
+│
+├── HR_Analytics.ipynb
+├── README.md
+├── requirements.txt
