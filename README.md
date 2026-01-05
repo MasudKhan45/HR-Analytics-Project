@@ -21,5 +21,6 @@ This project analyzes Human Resources data to uncover insights related to employ
 HR-Analytics-Project/
 │
 ├── HR_Analytics.ipynb
+├──Dataset
 ├── README.md
 ├── requirements.txt
